@@ -1,5 +1,5 @@
 # Arduino project
-  Use `arduino-1.8.16-windows.exe` to generate Hex.
+  Use `arduino-1.8.16-windows.exe` to generate binaries.
   
 ## Tree
 └── mon-projet-codeur\
